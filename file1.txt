@@ -1,1 +1,2 @@
 first commit for git-test at kit
+second commit by kim
